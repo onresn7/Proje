@@ -1,3 +1,3 @@
-# Proje
+# Proje Geliştirme  Ödevi
 
-Ödev
+Proje Geliştirme ve Yönetimi dersinin ödevi için hazırladığımız hyer-casual oyun
